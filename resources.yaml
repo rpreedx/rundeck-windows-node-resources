@@ -1,0 +1,16 @@
+win-node1-idrac-20.20.24.63:
+  description: Windows Server 2022
+  tags: windows
+  hostname: 20.20.1.240
+  osArch: amd64
+  osFamily: windows
+  username: Administrator
+  winrm-password-storage-path: "keys/project/WinRM/windows"
+win-node2-idrac-20.20.0.206:
+  description: Windows Server 2022
+  tags: windows
+  hostname: 20.20.9.116
+  osArch: amd64
+  osFamily: windows
+  username: Administrator
+  winrm-password-storage-path: "keys/project/WinRM/windows"
